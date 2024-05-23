@@ -1,9 +1,9 @@
-### Ejercicio 1 
-## Agregamos al arreglo traumatologia las siguientes horas
+# Ejercicio 1 
+# Agregamos al arreglo traumatologia las siguientes horas
 # traumatologia.push()
 
-### Ejercicio 2 
-## Eliminamos el primer elemento del arreglo
+# Ejercicio 2 
+# Eliminamos el primer elemento del arreglo
 # radiologia.shift()
 ## Eliminamos el último elemento del arreglo
 # radiologia.pop()
